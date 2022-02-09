@@ -1,0 +1,10 @@
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "emmet.includeLanguages": {
+    "java": "javascriptreact"
+  },
+  "reactSnippets.settings.importReactOnTop": false
+}
